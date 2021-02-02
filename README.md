@@ -8,8 +8,8 @@ Built an Interactive dashboard to explore the [Belly Button Biodiversity DataSet
 
 **Deployment:**
 
-The dashboard Flask app was deployed using `Heroku.`
-App Link - https://belly-button-biodiv-dashboard.herokuapp.com/
+The dashboard Flask app was deployed using `Heroku.
+App Link - https://belly-button-biodiv-dashboard.herokuapp.com/ `
 
 Visit [Biodiversity Dashboard](https://belly-button-dashboard-sheetal.herokuapp.com) Project.
 
